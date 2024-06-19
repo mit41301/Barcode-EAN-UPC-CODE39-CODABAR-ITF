@@ -3,3 +3,5 @@ Interleaved 2 of 5, Code39, Codabar and EAN type barcode generator using GW-BASI
 Run the program in GW-BASIC or in QBASIC. You're prompted to enter 12 digit numbers of any UPC/EAN code. The 13th digit is the checksum computed by the program and draws the Barcode on the screen. DOS uses black screen and Windows uses White screen.
 
 Choose the appropriate DOS or WINDOWS file for GW-BASIC or QBASIC. 
+
+Tested on WINDOWS 10 and WINDOWS 11 using QB64 compiler. Output verified using smartphone apps using Android and iOS.
